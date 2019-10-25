@@ -14,7 +14,7 @@
 ### App Walkthough GIF
 
 
-<img src="Flix2.gif width=250><br>
+<img src="Flix2.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
